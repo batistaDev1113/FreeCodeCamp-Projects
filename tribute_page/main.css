@@ -1,0 +1,51 @@
+
+
+	.jumbotron{
+  background-color: #767d89;
+  color: white;
+}
+
+.container h1{
+  color: #767d89;
+}
+
+.thumbnail{
+  border: hidden;
+}
+
+.row{
+  font-size: 18px;
+}
+
+.row h2{
+  text-align: center;;
+}
+
+.text-center p{
+  color: #767d89 ;
+  font-size: 2.0em;
+  display: inline;
+}
+
+.text-center{
+  margin-bottom: 10px;
+}
+
+.fa{
+  margin-left: 20px;
+}
+
+.row a{
+  color: white;
+
+}
+
+.row a:hover{
+  color: #3333ff;
+}
+
+.row ul a{
+  list-style-type: square;
+}
+
+
